@@ -14,5 +14,7 @@ public class MainActivity extends AppCompatActivity {
         String paulina2;
         String hannah;
         String hannah2;
+
+        System.out.println("Fatih Test");
     }
 }

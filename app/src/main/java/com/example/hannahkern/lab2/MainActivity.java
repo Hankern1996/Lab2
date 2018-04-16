@@ -16,5 +16,6 @@ public class MainActivity extends AppCompatActivity {
         String hannah2;
 
         System.out.println("Fatih Test");
+        System.out.print("Second test");
     }
 }
